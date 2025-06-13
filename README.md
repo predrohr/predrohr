@@ -27,7 +27,6 @@
 </div>
 
 ---
-
 <!-- Optional: Highlighted Projects
 ## 💼 Featured Projects
 
