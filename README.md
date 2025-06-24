@@ -5,7 +5,7 @@
 ## 🧠 About Me
 
 - 💻 Passionate about technology, design, and front-end development.
-- 🔭 Currently sharpening my skills with **React + Redux**.
+- 🔭 Currently sharpening my skills with **React + Firebase**.
 - 🌱 Always learning and exploring new tools in the front-end ecosystem.
 - ⚡ Fun fact: I sometimes code while listening to video game soundtracks 😄
 
